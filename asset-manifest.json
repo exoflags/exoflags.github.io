@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77d03983.chunk.css",
+    "main.js": "/static/js/main.d52d1143.chunk.js",
+    "main.js.map": "/static/js/main.d52d1143.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ccd38adb.chunk.js": "/static/js/2.ccd38adb.chunk.js",
+    "static/js/2.ccd38adb.chunk.js.map": "/static/js/2.ccd38adb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aec8d2bb330b20afbdfb85b5e13dbeaa.js": "/precache-manifest.aec8d2bb330b20afbdfb85b5e13dbeaa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.77d03983.chunk.css.map": "/static/css/main.77d03983.chunk.css.map",
+    "static/media/fonts.css": "/static/media/gilroy-light.c62aded7.otf"
+  }
+}
