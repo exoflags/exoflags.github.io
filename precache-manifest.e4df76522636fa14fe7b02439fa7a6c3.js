@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bac01cfa1ecd716d955761c4d7edec15",
+    "revision": "f42323c7296879c33bda665953382988",
     "url": "/index.html"
   },
   {
-    "revision": "175d002200139748f992",
+    "revision": "a5336d06106fab5bdde0",
     "url": "/static/css/main.f662ad4a.chunk.css"
   },
   {
-    "revision": "aef226e538c2c8f8d1be",
-    "url": "/static/js/2.49fb837f.chunk.js"
+    "revision": "d41c8a1f1abdc30d67b3",
+    "url": "/static/js/2.3e8f1967.chunk.js"
   },
   {
-    "revision": "175d002200139748f992",
-    "url": "/static/js/main.264d3669.chunk.js"
+    "revision": "a5336d06106fab5bdde0",
+    "url": "/static/js/main.65eaa254.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -96,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Auriga.777ff8ca.svg"
   },
   {
+    "revision": "71fdcff54c70600b8a12a33f1ec9e985",
+    "url": "/static/media/BestCandidateforSupportingLife.71fdcff5.svg"
+  },
+  {
     "revision": "543c6ff035419567c4e106c7cf89f445",
     "url": "/static/media/Bootes.543c6ff0.svg"
   },
@@ -158,6 +162,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0dcbe99039529d8764c2900152f5d7b4",
     "url": "/static/media/Circinus.0dcbe990.svg"
+  },
+  {
+    "revision": "c89bb3f4a7b04e9c894c2b62c6a7d81b",
+    "url": "/static/media/ClosestConfirmed.c89bb3f4.svg"
   },
   {
     "revision": "b7dfe176a227aa93448ae6e1f25ef2dd",
@@ -272,6 +280,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Lacerta.d1eb6714.svg"
   },
   {
+    "revision": "d5ee32c4cce3a34ba36d17f63254d0ca",
+    "url": "/static/media/LargestConfirmed.d5ee32c4.svg"
+  },
+  {
     "revision": "a3921662c0c6c8479d62127c64359587",
     "url": "/static/media/Leo.a3921662.svg"
   },
@@ -310,6 +322,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "effa918d7627d956e59fe2e3792375a4",
     "url": "/static/media/Monoceros.effa918d.svg"
+  },
+  {
+    "revision": "8a4eb099e78fbdf10de73753359ad921",
+    "url": "/static/media/MostRecentlyConfirmed.8a4eb099.svg"
   },
   {
     "revision": "af2a3ddc090542f3002fb4d8edbc7e98",
@@ -466,5 +482,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c62aded729bf7146d491275e5019d7fc",
     "url": "/static/media/gilroy-light.c62aded7.otf"
+  },
+  {
+    "revision": "326522b8c52305441dcc0207fbb76632",
+    "url": "/static/media/icBestCandidateforSupportingLife.326522b8.svg"
+  },
+  {
+    "revision": "7885f871976f862da3235f1e60e29a43",
+    "url": "/static/media/icClosestConfirmed.7885f871.svg"
+  },
+  {
+    "revision": "ec3fa23bdd3765825becccfb453d41d1",
+    "url": "/static/media/icLargestConfirmed.ec3fa23b.svg"
+  },
+  {
+    "revision": "ca9393ce74bff02ae4ff1d62c832641b",
+    "url": "/static/media/icMostRecentlyConfirmed.ca9393ce.svg"
   }
 ]);
